@@ -1,0 +1,38 @@
+.head {
+  margin: 0 auto;
+  max-width: 1152px;
+
+  border-left: 532px;
+  border-right: 275px;
+  /* display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; */
+  padding: 0px;
+
+  margin-bottom: 23px;
+  text-align: center;
+  margin-top: 12px;
+  margin-bottom: 24px;
+}
+
+#twitter {
+  font-weight: 700;
+}
+
+#img {
+  height: 88px;
+  width: 88px;
+}
+
+#share {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  right: 110px;
+  top: 16px;
+}
+
+#share:hover {
+  cursor: pointer;
+}

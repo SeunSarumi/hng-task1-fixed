@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  max-width: 1400px;
+  margin: auto;
+  font-family: "Inter";
+}
+
+.App-header {
+  margin: 0 auto;
+  width: 1152px;
+  height: 88px;
+  border-left: 532px;
+  border-right: 275px;
+  /* display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; */
+  padding: 0px;
+  background-color: blueviolet;
+  margin-bottom: 23px;
+}
+
+.App-link {
+  height: 100px;
+  background-color: cornflowerblue;
+}

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SeunSarumi/hng-task-1/static/css/main.504fbe69.css",
+    "main.js": "/SeunSarumi/hng-task-1/static/js/main.dc153931.js",
+    "index.html": "/SeunSarumi/hng-task-1/index.html",
+    "main.504fbe69.css.map": "/SeunSarumi/hng-task-1/static/css/main.504fbe69.css.map",
+    "main.dc153931.js.map": "/SeunSarumi/hng-task-1/static/js/main.dc153931.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.504fbe69.css",
+    "static/js/main.dc153931.js"
+  ]
+}
