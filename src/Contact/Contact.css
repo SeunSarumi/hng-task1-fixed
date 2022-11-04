@@ -1,0 +1,13 @@
+.contact-container {
+  width: 1440px;
+  height: 960px;
+  /* background-color: blueviolet; */
+}
+
+.form-container {
+  /* background-color: blueviolet; */
+  margin-top: 180px;
+  margin-left: 350px;
+  width: 960px;
+  height: 760px;
+}

@@ -1,4 +1,5 @@
 import "./Footer.css";
+import img3 from "./images/picture.jpg";
 
 function Footer() {
   return (
@@ -21,7 +22,7 @@ function Footer() {
         />
       </svg>
       <p className="words"> HNG Internship 9 Frontend Task</p>
-      <img src="/images/picture.jpg" alt="picture" />
+      <img src={img3} alt="picture" />
     </div>
   );
 }

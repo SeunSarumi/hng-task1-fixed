@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import "./Links.css";
 
 function Links() {
@@ -21,6 +22,9 @@ function Links() {
       <a href="https://books.zuri.team/design-rules " id="book__design">
         Design Books
       </a>
+      <Link to="/contact" id="contact">
+        Contact
+      </Link>
     </div>
   );
 }
